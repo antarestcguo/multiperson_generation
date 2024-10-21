@@ -1,0 +1,11 @@
+.DS_Store
+.idea
+
+results
+*.jpg
+*.png
+tmp*
+checkpoint*
+*/__pycache__
+__pycache__
+*/*/__pycache__

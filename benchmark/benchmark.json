@@ -1,0 +1,130 @@
+{
+    "image1": {
+        "prompt": "Close-up photo of the happy smiles on the faces of the cool man and beautiful woman as they leave the island with the treasure, sail back to the vacation beach, and begin their love story, 35mm photograph, film, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly",
+        "characters": [
+            {
+                "image_path": "./benchmark/character_image/character_4.png",
+                "prompt": "Close-up photo of a man, 35mm photograph, professional, 4k, highly detailed.",
+                "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+            },
+            {
+                "image_path": "./benchmark/character_image/character_2.png",
+                "prompt": "Close-up photo of a woman, 35mm photograph, professional, 4k, highly detailed.",
+                "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+            }
+        ]
+    },
+    "image2": {
+        "prompt": "Close-up photo of a man and a woman working side by side in a sleek, futuristic laboratory, surrounded by glowing technology, vibrant colors, 35mm photograph, film, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly",
+        "characters": [
+            {
+                "image_path": "./benchmark/character_image/character_8.png",
+                "prompt": "Close-up photo of a man, 35mm photograph, professional, 4k, highly detailed.",
+                "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+            },
+            {
+                "image_path": "./benchmark/character_image/character_1.png",
+                "prompt": "Close-up photo of the a woman, 35mm photograph, professional, 4k, highly detailed.",
+                "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+            }
+        ]
+    },
+    "image3": {
+        "prompt": "Close-up photo of a man and a woman in a dimly lit alley, solving a crime with flashlights and intrigue, film noir atmosphere, high contrast ,35mm photograph, film, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly",
+        "characters": [
+            {
+                "image_path": "./benchmark/character_image/character_5.png",
+                "prompt": "Close-up photo of a man, 35mm photograph, professional, 4k, highly detailed.",
+                "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+            },
+            {
+                "image_path": "./benchmark/character_image/character_3.png",
+                "prompt": "Close-up photo of a woman, 35mm photograph, professional, 4k, highly detailed.",
+                "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+            }
+        ]
+    },
+    "image4": {
+        "prompt": "Close-up photo of a boy and a girl standing before the Eiffel Tower in different eras, blending past and present, soft focus, dreamlike quality ,35mm photograph, film, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly",
+        "characters": [
+            {
+                "image_path": "./benchmark/character_image/character_7.png",
+                "prompt": "Close-up photo of a boy, 35mm photograph, professional, 4k, highly detailed.",
+                "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+            },
+            {
+                "image_path": "./benchmark/character_image/character_6.png",
+                "prompt": "Close-up photo of a girl, 35mm photograph, professional, 4k, highly detailed.",
+                "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+            }
+        ]
+    },
+    "image5": {
+        "prompt": "A man and a woman facing each other in a dusty street at high noon, sunlit showdown, cinematic wide shot, vivid colors, 35mm photograph, film, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly",
+        "characters": [
+            {
+                "image_path": "./benchmark/character_image/character_4.png",
+                "prompt": "a man, 35mm photograph, professional, 4k, highly detailed.",
+                "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+            },
+            {
+                "image_path": "./benchmark/character_image/character_2.png",
+                "prompt": "a woman, 35mm photograph, professional, 4k, highly detailed.",
+                "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+            }
+        ]
+    },
+    "image6": {
+        "prompt": "A man and a woman facing each other in a dusty street at high noon, sunlit showdown, cinematic wide shot, vivid colors, 35mm photograph, film, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly",
+        "characters": [
+            {
+                "image_path": "./benchmark/character_image/character_8.png",
+                "prompt": "Close-up photo of the a man, 35mm photograph, professional, 4k, highly detailed.",
+                "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+            },
+            {
+                "image_path": "./benchmark/character_image/character_1.png",
+                "prompt": "Close-up photo of the a woman, 35mm photograph, professional, 4k, highly detailed.",
+                "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+            }
+        ]
+    },
+    "image7": {
+        "prompt": "A boy and a girl sharing a playful moment in a sun-dappled forest glade, whimsical creatures, 35mm photograph, film, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly",
+        "characters": [
+            {
+                "image_path": "./benchmark/character_image/character_5.png",
+                "prompt": "a boy, 35mm photograph, professional, 4k, highly detailed.",
+                "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+            },
+            {
+                "image_path": "./benchmark/character_image/character_6.png",
+                "prompt": "a girl, 35mm photograph, professional, 4k, highly detailed.",
+                "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+            }
+        ]
+    },
+    "image8": {
+        "prompt": "A boy and a woman fatale in a classic car, driving into the neon-lit cityscape, film still quality, moody atmosphere. 35mm photograph, film, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly",
+        "characters": [
+            {
+                "image_path": "./benchmark/character_image/character_7.png",
+                "prompt": "a boy, 35mm photograph, professional, 4k, highly detailed.",
+                "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+            },
+            {
+                "image_path": "./benchmark/character_image/character_3.png",
+                "prompt": "a woman, 35mm photograph, professional, 4k, highly detailed.",
+                "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+            }
+        ]
+    }
+}

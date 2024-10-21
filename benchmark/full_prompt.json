@@ -1,0 +1,306 @@
+{
+  "full_image1": {
+    "prompt": "A man and a woman walking hand in hand along a beach at sunset. The sky is painted with vibrant shades of orange, pink, and purple. Both are casually dressed in summer clothes,35mm photograph, film, professional, 4k, highly detailed.",
+    "negative_prompt": "noisy, blurry, soft, deformed, ugly",
+    "characters": [
+      {
+        "image_path": "./benchmark/character_image/character_4.png",
+        "prompt": "Close-up photo of a man, 35mm photograph, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+      },
+      {
+        "image_path": "./benchmark/character_image/character_2.png",
+        "prompt": "Close-up photo of a woman, 35mm photograph, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+      }
+    ]
+  },
+  "full_image2": {
+    "prompt": "A cozy coffee shop with soft lighting. A man in a suit and a woman in a casual sweater are sitting at a small table by the window. They are deep in conversation. plants and bookshelves around them, 35mm photograph, film, professional, 4k, highly detailed.",
+    "negative_prompt": "noisy, blurry, soft, deformed, ugly",
+    "characters": [
+      {
+        "image_path": "./benchmark/character_image/character_4.png",
+        "prompt": "Close-up photo of a man, 35mm photograph, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+      },
+      {
+        "image_path": "./benchmark/character_image/character_2.png",
+        "prompt": "Close-up photo of a woman, 35mm photograph, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+      }
+    ]
+  },
+  "full_image3": {
+    "prompt": "A man and a woman hiking up a rugged mountain trail, surrounded by tall pine trees and wildflowers. They are dressed in outdoor gear, with backpacks and walking sticks, 35mm photograph, film, professional, 4k, highly detailed.",
+    "negative_prompt": "noisy, blurry, soft, deformed, ugly",
+    "characters": [
+      {
+        "image_path": "./benchmark/character_image/character_4.png",
+        "prompt": "Close-up photo of a man, 35mm photograph, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+      },
+      {
+        "image_path": "./benchmark/character_image/character_2.png",
+        "prompt": "Close-up photo of a woman, 35mm photograph, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+      }
+    ]
+  },
+  "full_image4": {
+    "prompt": "A man and a woman both dressed in high-tech space suits, with distant planets and stars visible. holographic screens float around them, 35mm photograph, film, professional, 4k, highly detailed.",
+    "negative_prompt": "noisy, blurry, soft, deformed, ugly",
+    "characters": [
+      {
+        "image_path": "./benchmark/character_image/character_4.png",
+        "prompt": "Close-up photo of a man, 35mm photograph, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+      },
+      {
+        "image_path": "./benchmark/character_image/character_2.png",
+        "prompt": "Close-up photo of a woman, 35mm photograph, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+      }
+    ]
+  },
+  "full_image5": {
+    "prompt": "A man and a woman are sharing an umbrella as they walk down a wet street lined with glowing neon signs. The man is wearing a trench coat, and the woman has a scarf wrapped around her neck, A rainy evening in a bustling city. 35mm photograph, film, professional, 4k, highly detailed.",
+    "negative_prompt": "noisy, blurry, soft, deformed, ugly",
+    "characters": [
+      {
+        "image_path": "./benchmark/character_image/character_4.png",
+        "prompt": "Close-up photo of a man, 35mm photograph, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+      },
+      {
+        "image_path": "./benchmark/character_image/character_2.png",
+        "prompt": "Close-up photo of a woman, 35mm photograph, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+      }
+    ]
+  },
+  "full_image6": {
+    "prompt": "A man and a woman standing beside a rugged off-road vehicle in the middle of a vast desert. The sun is high in the sky, casting long shadows on the sand dunes around them, 35mm photograph, film, professional, 4k, highly detailed.",
+    "negative_prompt": "noisy, blurry, soft, deformed, ugly",
+    "characters": [
+      {
+        "image_path": "./benchmark/character_image/character_4.png",
+        "prompt": "Close-up photo of a man, 35mm photograph, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+      },
+      {
+        "image_path": "./benchmark/character_image/character_2.png",
+        "prompt": "Close-up photo of a woman, 35mm photograph, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+      }
+    ]
+  },
+  "full_image7": {
+    "prompt": "A man wearing a paint-splattered apron is painting on a large canvas, while a woman in casual clothes is sketching beside him. Inside a bright, airy art studio with canvases and paint scattered around. 35mm photograph, film, professional, 4k, highly detailed.",
+    "negative_prompt": "noisy, blurry, soft, deformed, ugly",
+    "characters": [
+      {
+        "image_path": "./benchmark/character_image/character_4.png",
+        "prompt": "Close-up photo of a man, 35mm photograph, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+      },
+      {
+        "image_path": "./benchmark/character_image/character_2.png",
+        "prompt": "Close-up photo of a woman, 35mm photograph, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+      }
+    ]
+  },
+  "full_image8": {
+    "prompt": "A man and a woman sit on a blanket in a park, casually dressed in light summer clothes. They are sharing food, 35mm photograph, film, professional, 4k, highly detailed.",
+    "negative_prompt": "noisy, blurry, soft, deformed, ugly",
+    "characters": [
+      {
+        "image_path": "./benchmark/character_image/character_4.png",
+        "prompt": "Close-up photo of a man, 35mm photograph, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+      },
+      {
+        "image_path": "./benchmark/character_image/character_2.png",
+        "prompt": "Close-up photo of a woman, 35mm photograph, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+      }
+    ]
+  },
+  "full_image9": {
+    "prompt": "A man and a woman in formal attire, dancing under chandeliers in a grand ballroom, 35mm photograph, film, professional, 4k, highly detailed.",
+    "negative_prompt": "noisy, blurry, soft, deformed, ugly",
+    "characters": [
+      {
+        "image_path": "./benchmark/character_image/character_4.png",
+        "prompt": "Close-up photo of a man, 35mm photograph, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+      },
+      {
+        "image_path": "./benchmark/character_image/character_2.png",
+        "prompt": "Close-up photo of a woman, 35mm photograph, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+      }
+    ]
+  },
+  "full_image10": {
+    "prompt": "A man and a woman both dressed in athletic gear are running side by side on a track. 35mm photograph, film, professional, 4k, highly detailed.",
+    "negative_prompt": "noisy, blurry, soft, deformed, ugly",
+    "characters": [
+      {
+        "image_path": "./benchmark/character_image/character_4.png",
+        "prompt": "Close-up photo of a man, 35mm photograph, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+      },
+      {
+        "image_path": "./benchmark/character_image/character_2.png",
+        "prompt": "Close-up photo of a woman, 35mm photograph, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+      }
+    ]
+  },
+  "full_image11": {
+    "prompt": "A man and a woman in winter coats and scarves are building a snowman together, 35mm photograph, film, professional, 4k, highly detailed.",
+    "negative_prompt": "noisy, blurry, soft, deformed, ugly",
+    "characters": [
+      {
+        "image_path": "./benchmark/character_image/character_4.png",
+        "prompt": "Close-up photo of a man, 35mm photograph, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+      },
+      {
+        "image_path": "./benchmark/character_image/character_2.png",
+        "prompt": "Close-up photo of a woman, 35mm photograph, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+      }
+    ]
+  },
+  "full_image12": {
+    "prompt": "A man and a woman in casual but stylish urban clothes are walking down a busy street, holding shopping bags. 35mm photograph, film, professional, 4k, highly detailed.",
+    "negative_prompt": "noisy, blurry, soft, deformed, ugly",
+    "characters": [
+      {
+        "image_path": "./benchmark/character_image/character_4.png",
+        "prompt": "Close-up photo of a man, 35mm photograph, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+      },
+      {
+        "image_path": "./benchmark/character_image/character_2.png",
+        "prompt": "Close-up photo of a woman, 35mm photograph, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+      }
+    ]
+  },
+  "full_image13": {
+    "prompt": "A man in a long coat and a woman in a stylish jacket are walking under an umbrella in the rain. 35mm photograph, film, professional, 4k, highly detailed.",
+    "negative_prompt": "noisy, blurry, soft, deformed, ugly",
+    "characters": [
+      {
+        "image_path": "./benchmark/character_image/character_4.png",
+        "prompt": "Close-up photo of a man, 35mm photograph, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+      },
+      {
+        "image_path": "./benchmark/character_image/character_2.png",
+        "prompt": "Close-up photo of a woman, 35mm photograph, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+      }
+    ]
+  },
+  "full_image14": {
+    "prompt": "A man and a woman in casual home clothes are standing in a kitchen, cooking together, 35mm photograph, film, professional, 4k, highly detailed.",
+    "negative_prompt": "noisy, blurry, soft, deformed, ugly",
+    "characters": [
+      {
+        "image_path": "./benchmark/character_image/character_4.png",
+        "prompt": "Close-up photo of a man, 35mm photograph, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+      },
+      {
+        "image_path": "./benchmark/character_image/character_2.png",
+        "prompt": "Close-up photo of a woman, 35mm photograph, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+      }
+    ]
+  },
+  "full_image15": {
+    "prompt": "A man and a woman dressed casually in sweaters and jeans, are sitting across from each other in a quiet library surrounded by books, 35mm photograph, film, professional, 4k, highly detailed.",
+    "negative_prompt": "noisy, blurry, soft, deformed, ugly",
+    "characters": [
+      {
+        "image_path": "./benchmark/character_image/character_4.png",
+        "prompt": "Close-up photo of a man, 35mm photograph, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+      },
+      {
+        "image_path": "./benchmark/character_image/character_2.png",
+        "prompt": "Close-up photo of a woman, 35mm photograph, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+      }
+    ]
+  },
+  "full_image16_cutoff": {
+    "prompt": "A man and a woman hiking up a rugged mountain trail",
+    "negative_prompt": "noisy, blurry, soft, deformed, ugly",
+    "characters": [
+      {
+        "image_path": "./benchmark/character_image/character_4.png",
+        "prompt": "Close-up photo of a man, 35mm photograph, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+      },
+      {
+        "image_path": "./benchmark/character_image/character_2.png",
+        "prompt": "Close-up photo of a woman, 35mm photograph, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+      }
+    ]
+  },
+  "full_image17_cutoff": {
+    "prompt": "Close-up photo of a man and a woman in a dimly lit alley",
+    "negative_prompt": "noisy, blurry, soft, deformed, ugly",
+    "characters": [
+      {
+        "image_path": "./benchmark/character_image/character_4.png",
+        "prompt": "Close-up photo of a man, 35mm photograph, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+      },
+      {
+        "image_path": "./benchmark/character_image/character_2.png",
+        "prompt": "Close-up photo of a woman, 35mm photograph, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+      }
+    ]
+  },
+  "full_image18_cutoff": {
+    "prompt": "A man and a woman, dressed casually in sweaters and jeans",
+    "negative_prompt": "noisy, blurry, soft, deformed, ugly",
+    "characters": [
+      {
+        "image_path": "./benchmark/character_image/character_4.png",
+        "prompt": "Close-up photo of a man, 35mm photograph, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+      },
+      {
+        "image_path": "./benchmark/character_image/character_2.png",
+        "prompt": "Close-up photo of a woman, 35mm photograph, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+      }
+    ]
+  },
+  "full_image19_cutoff": {
+    "prompt": "A man and a woman facing each other in a dusty street at high noon",
+    "negative_prompt": "noisy, blurry, soft, deformed, ugly",
+    "characters": [
+      {
+        "image_path": "./benchmark/character_image/character_4.png",
+        "prompt": "Close-up photo of a man, 35mm photograph, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+      },
+      {
+        "image_path": "./benchmark/character_image/character_2.png",
+        "prompt": "Close-up photo of a woman, 35mm photograph, professional, 4k, highly detailed.",
+        "negative_prompt": "noisy, blurry, soft, deformed, ugly"
+      }
+    ]
+  }
+}
